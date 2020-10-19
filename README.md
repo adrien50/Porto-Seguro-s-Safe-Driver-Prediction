@@ -1,4 +1,4 @@
-# Data science Internship project : Porto Seguro’s Safe Driver Prediction. Predict if a driver will file an insurance claim next year.
+# Data science Capstone project : Porto Seguro’s Safe Driver Prediction. Predict if a driver will file an insurance claim next year.
 
 ## During my internship at datamites, I have worked on that project for which I have received grade B+
 
