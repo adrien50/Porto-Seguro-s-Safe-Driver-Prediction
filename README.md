@@ -1,7 +1,5 @@
 # Data science Capstone project : Porto Seguro’s Safe Driver Prediction. Predict if a driver will file an insurance claim next year.
 
-## During my internship at Rubixe, I have worked on that project for which I have received grade B+
-
 # Problem description
 
 Nothing ruins the thrill of buying a brand new car more quickly than seeing your new insurance bill. The sting’s even more painful when you know you’re a good driver. It doesn’t seem fair that you have to pay so much if you’ve been cautious on the road for years.
