@@ -18,5 +18,21 @@ In the train and test data, features that belong to similar groupings are tagged
 
 •	train.csv contains the training data, where each row corresponds to a policy holder, and the target columns signifies that a claim was filed.  (‘target’ is target label)
 
+# Project Flow
+• Classification of features
+• Exploratory Data Visualization
+• Handling imbalanced classes
+• Checking missing values
+• cardinality of the categorical variables
+• Filling missing values using SimpleImputer
+• Creating dummy variables¶
+• TRAIN TEST SPLIT
+• FUNCTION CLASSIFIER
+• Model to predict the ROC curve for various models and finding the best one
+• Finding accuracy using XGB classifier
+• Finding accuracy using K nearest Neighbour Classifier
+• Finding accuracy using Decision Tree Classifier
+• Running on unbalanced dataset
+• Synthetically balancing the dataset
 
 
